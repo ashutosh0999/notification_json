@@ -1,0 +1,331 @@
+{
+  "jk_admission_notifications": [
+    {
+      "title": "NEET UG 2025 Online Registration - MBBS/BDS",
+      "date_of_issue": "16-09-2025",
+      "notification_number": "130-BOPEE of 2025",
+      "type": "MBBS/BDS (UG)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17168&type=n"
+    },
+    {
+      "title": "B.Ed CET 2025 Notification",
+      "date_of_issue": "14-04-2025",
+      "notification_number": "050-BOPEE of 2025",
+      "type": "B.Ed (UG)",
+      "link": "https://testbook.com/jkbopee-bed"
+    },
+    {
+      "title": "BSc Nursing CET 2025 Admission Notification",
+      "date_of_issue": "11-08-2025",
+      "notification_number": "101-BOPEE of 2025",
+      "type": "BSc Nursing",
+      "link": "https://medicine.careers360.com/exams/jkbopee-bsc-nursing"
+    },
+    {
+      "title": "12th Based Paramedical Admission 2025",
+      "date_of_issue": "15-07-2025",
+      "notification_number": "067-BOPEE of 2025",
+      "type": "Paramedical (12th Based)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16771&type=n"
+    },
+    {
+      "title": "10th Based Paramedical Admission 2025",
+      "date_of_issue": "22-06-2025",
+      "notification_number": "042-BOPEE of 2025",
+      "type": "Paramedical (10th Based)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16775&type=n"
+    },
+    {
+      "title": "BE/B.Tech JKCET Admission Notice",
+      "date_of_issue": "24-04-2025",
+      "notification_number": "040-BOPEE of 2025",
+      "type": "JKCET (Engineering)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16754&type=n"
+    },
+    {
+      "title": "Polytechnic Diploma Admission 2025",
+      "date_of_issue": "10-03-2025",
+      "notification_number": "020-BOPEE of 2025",
+      "type": "Polytechnic Diploma",
+      "link": "https://www.jkbopee.gov.in/Examination.aspx"
+    },
+    {
+      "title": "Post Basic BSc Nursing Admission Extension",
+      "date_of_issue": "03-09-2025",
+      "notification_number": "124-BOPEE of 2025",
+      "type": "Post Basic BSc Nursing",
+      "link": "https://medicine.careers360.com/exams/jkbopee-bsc-nursing"
+    },
+    {
+      "title": "MDS Admission Notification",
+      "date_of_issue": "25-05-2025",
+      "notification_number": "081-BOPEE of 2025",
+      "type": "MDS",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17048&type=n"
+    },
+    {
+      "title": "M.Sc Nursing Admission 2025",
+      "date_of_issue": "05-05-2025",
+      "notification_number": "064-BOPEE of 2025",
+      "type": "M.Sc Nursing",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16764&type=n"
+    }
+  ],
+  "jk_entrance_tests": [
+    {
+      "exam_name": "JKCET (Engineering CET)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16754&type=n",
+      "important_dates": {
+        "application_start": "05-03-2025",
+        "application_end": "29-03-2025",
+        "exam_date": "12-04-2025",
+        "result_date": "24-04-2025"
+      }
+    },
+    {
+      "exam_name": "B.Ed CET",
+      "link": "https://testbook.com/jkbopee-bed",
+      "important_dates": {
+        "application_start": "18-03-2025",
+        "application_end": "01-04-2025",
+        "exam_date": "26-04-2025"
+      }
+    },
+    {
+      "exam_name": "MBBS/BDS (NEET UG)",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=17168&type=n",
+      "important_dates": {
+        "application_start": "01-07-2025",
+        "application_end": "10-07-2025",
+        "exam_date": "15-07-2025"
+      }
+    },
+    {
+      "exam_name": "12th Based Paramedical",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16771&type=n",
+      "important_dates": {
+        "application_start": "10-06-2025",
+        "application_end": "30-06-2025",
+        "exam_date": "05-07-2025"
+      }
+    },
+    {
+      "exam_name": "10th Based Paramedical",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16775&type=n",
+      "important_dates": {
+        "application_start": "22-04-2025",
+        "application_end": "20-05-2025",
+        "exam_date": "25-05-2025"
+      }
+    },
+    {
+      "exam_name": "Polytechnic Diploma",
+      "link": "https://www.jkbopee.gov.in/Examination.aspx",
+      "important_dates": {
+        "application_start": "10-02-2025",
+        "application_end": "05-03-2025",
+        "exam_date": "20-03-2025"
+      }
+    },
+    {
+      "exam_name": "B.Sc Nursing CET",
+      "link": "https://medicine.careers360.com/exams/jkbopee-bsc-nursing",
+      "important_dates": {
+        "application_start": "15-06-2025",
+        "application_end": "25-06-2025",
+        "exam_date": "01-07-2025"
+      }
+    },
+    {
+      "exam_name": "M.Sc Nursing Entrance",
+      "link": "https://www.jkbopee.gov.in/Pdf/Downloader.ashx?nid=16764&type=n",
+      "important_dates": {
+        "application_start": "01-04-2025",
+        "application_end": "25-04-2025",
+        "exam_date": "05-05-2025"
+      }
+    }
+  ],
+  "scholarships_pan_india": [
+    {
+      "name": "Central Sector Scholarship Scheme for College/University Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "02-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 10,000-20,000/year",
+      "status": "Active",
+      "eligibility": "Passed class 12, merit criteria"
+    },
+    {
+      "name": "Post Matric Scholarship for SC Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 3,000-12,000/year",
+      "status": "Active",
+      "eligibility": "SC students, post matric level"
+    },
+    {
+      "name": "Post Matric Scholarship for ST Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 3,000-12,000/year",
+      "status": "Active",
+      "eligibility": "ST students, post matric level"
+    },
+    {
+      "name": "Post Matric Scholarship for OBC Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "15-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 3,000-12,000/year",
+      "status": "Active",
+      "eligibility": "OBC students, post matric level"
+    },
+    {
+      "name": "Pre Matric Scholarship for SC Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "05-06-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 2,000-6,000/year",
+      "status": "Active",
+      "eligibility": "SC students, pre matric level"
+    },
+    {
+      "name": "Pre Matric Scholarship for ST Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "05-06-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 2,000-6,000/year",
+      "status": "Active",
+      "eligibility": "ST students, pre matric level"
+    },
+    {
+      "name": "Pre Matric Scholarship for OBC Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "05-06-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 2,000-6,000/year",
+      "status": "Active",
+      "eligibility": "OBC students, pre matric level"
+    },
+    {
+      "name": "Pre Matric Scholarship for Minorities",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 2,000-6,000/year",
+      "status": "Active",
+      "eligibility": "Minority community, pre matric level"
+    },
+    {
+      "name": "Merit-cum-Means Scholarship for Minorities",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-07-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 25,000/year",
+      "status": "Active",
+      "eligibility": "Minority students, undergraduate/PG"
+    },
+    {
+      "name": "National Means-cum-Merit Scholarship Scheme (NMMS)",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "15-07-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 12,000/year",
+      "status": "Active",
+      "eligibility": "Class IX students, income criteria"
+    },
+    {
+      "name": "Post Matric Scholarship for Minorities",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 3,000-12,000/year",
+      "status": "Active",
+      "eligibility": "Minority students, post matric level"
+    },
+    {
+      "name": "PG Indira Gandhi Scholarship for Single Girl Child",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "01-08-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 36,200/year",
+      "status": "Active",
+      "eligibility": "Single girl child, PG program"
+    },
+    {
+      "name": "AICTE Pragati Scholarship for Girls",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 50,000/year",
+      "status": "Active",
+      "eligibility": "Girl students, technical diploma/degree"
+    },
+    {
+      "name": "AICTE Saksham Scholarship for Differently Abled",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 50,000/year",
+      "status": "Active",
+      "eligibility": "Differently abled, technical diploma/degree"
+    },
+    {
+      "name": "PG Scholarship for University Rank Holders",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "01-08-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 3,100/month",
+      "status": "Active",
+      "eligibility": "Top university rank holders, PG program"
+    },
+    {
+      "name": "National Fellowship for SC",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 25,000/month",
+      "status": "Active",
+      "eligibility": "SC students, PhD/PG research"
+    },
+    {
+      "name": "National Fellowship for ST",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 25,000/month",
+      "status": "Active",
+      "eligibility": "ST students, PhD/PG research"
+    },
+    {
+      "name": "Top Class Education Scheme for SC Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "15-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 2,00,000/year",
+      "status": "Active",
+      "eligibility": "SC students in premier institutions"
+    },
+    {
+      "name": "Top Class Education Scheme for ST Students",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "15-06-2025",
+      "application_deadline": "31-10-2025",
+      "amount": "Rs. 2,00,000/year",
+      "status": "Active",
+      "eligibility": "ST students in premier institutions"
+    },
+    {
+      "name": "Pre Matric Scholarship for Children of Beedi/Cine/IOMC/LSDM Workers",
+      "link": "https://scholarships.gov.in/All-Scholarships",
+      "application_start_date": "10-06-2025",
+      "application_deadline": "30-09-2025",
+      "amount": "Rs. 1,100/year",
+      "status": "Active",
+      "eligibility": "Children of Listed Workers, pre matric level"
+    }
+  ]
+}
